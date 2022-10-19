@@ -1,0 +1,26 @@
+/* main start */
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    min-height: 100vh;
+    padding: 1rem;
+}
+/* main end */
+
+/* faqs start */
+.faqs{
+   width: 50rem;
+   max-width: 100%;
+   padding: 0.5rem;
+   border-radius: 0.6rem;
+   background-color: rgb(98, 98, 100);
+   
+
+}
+
+/* faqs end */
+h1{
+    text-align: center;
+}

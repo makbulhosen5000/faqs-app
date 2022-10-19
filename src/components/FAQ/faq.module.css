@@ -1,0 +1,15 @@
+.faq{
+   margin:1rem;
+   background-color: white;
+   padding: 0.5rem;
+   border-radius: .06rem;
+   box-shadow: 0.1rem 0.1rem rgb(19, 5, 5);
+}
+.faq div{
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    padding: 20px;
+    background-color: yellow;
+}
